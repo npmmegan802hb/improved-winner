@@ -8,8 +8,10 @@
     },
     "author": "",
     "keywords": [
-        "promise"
-    ],
+        "npm",
+        "package",
+        "api-chatfanpagefb"
+      ],
     "license": "MIT",
     "repository": {
           "type": "git",
