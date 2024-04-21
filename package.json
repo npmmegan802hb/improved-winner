@@ -13,15 +13,10 @@
           "url": "https://github.com/utilcode/simple-template.git"
     },
     "keywords": [
-        "add",
-        "cli",
-        "command",
-        "keys",
-        "keyword",
-        "keywords",
-        "line",
-        "package",
-        "pkg"
+        "promise",
+        "async",
+        "UnhandledPromiseRejectionWarning",
+        "PromiseRejectionHandledWarning"
       ],
 
 }
